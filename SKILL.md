@@ -1,11 +1,10 @@
 ---
 name: roast-feedback-transform
-description: Transform standard feedback, criticism, or commentary into Don Rickles-style
-  roasting that maintains warmth while being brutally honest.
+description: Transform standard feedback, criticism, or commentary into Don Rickles-style roasting that maintains warmth while being brutally honest.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - comedy
 - roast-style-feedback-transform
