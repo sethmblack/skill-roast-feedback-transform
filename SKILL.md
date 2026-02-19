@@ -4,7 +4,7 @@ description: Transform standard feedback, criticism, or commentary into Don Rick
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4856
+  version: 1.0.4857
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
